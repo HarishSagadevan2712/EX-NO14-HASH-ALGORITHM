@@ -80,7 +80,8 @@ int main() {
 ```
 
 ## Output:
-<img width="1872" height="963" alt="Crypto Exp-14" src="https://github.com/user-attachments/assets/661664be-e5b1-4797-80e7-7c6b355ef0d6" />
+<img width="1920" height="1040" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/bb56b19f-fb9f-4ba8-81ff-f0a5942203aa" />
+
 
 ## Result:
 The program is executed successfully.
